@@ -1,0 +1,15 @@
+#user-ips-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+#user-ips-table th, #user-ips-table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+#user-ips-table th {
+    background-color: #f2f2f2;
+}
